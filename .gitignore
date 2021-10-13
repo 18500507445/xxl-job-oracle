@@ -1,0 +1,7 @@
+.gitattributes
+.github/
+.idea/
+
+# Project exclude paths
+/xxl-job-admin/target/
+/xxl-job-core/target/
